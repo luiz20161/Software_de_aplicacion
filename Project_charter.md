@@ -13,6 +13,105 @@ Table of Contents
 Revision History	5
 dgfkkjhg
 
+1 . DESCRIPCION DEL PROYECTO
+
+Actualmente la Empresa del Grupo Lindley, dedicada a la complementación y operación de Tiendas de Conveniencia del sector Venta al consumidor, no cuenta con un sistema de control de ventas, la cual registre y maneje el inventario de los cuales mantienen en stock para darle así al conocer al usuario y dar un mejor servicio de atención rápida y controlada.  
+Para ello queremos implementar un software que nos permita comprar por medio de la web.
+Hacer los pedidos a los teléfonos que indican en casa establecimiento que esto se conoce como Delivery y que llegue en menor tiempo de las empresas que ya existen.
+Por tal motivo se desarrollará un Sistema automatizado para la gestión de Ventas que se derivan a las distintas áreas de la empresa, el mismo que accedan los usuarios de la empresa para las consultas, requiriéndose que los clientes puedan acceder a la web y realizar sus pedidos, de manera que se agilice el proceso de ventas de la empresa y que el cliente pueda cotizar para posteriormente enviar su orden de compra.
+
+ Así mismo se espera incorporar módulos que lleven el control de dichos procesos y que sean de ayuda para la agilización de los mismos.
+
+El presente proyecto tiene como objetivo realizar un sistema que permita automatizar la gestión de ventas agilizando así la atención al cliente y permitiendo controlar y realizar un seguimiento de los pedidos efectuados, con el fin de poder determinar si el pedido fue atendido en su oportunidad. 
+
+Gracias a este nuevo sistema los usuarios van a poder obtener diversos    beneficios: 
+
+	Tener a disposición en el sistema un catálogo de los productos que se tiene, con información detallada de cada uno como el stock, precio, características, etc., para así brindarle una mejor atención a los clientes. 
+	Podrán acceder y verificar los datos de los clientes, o registrarlo en caso de que sea un cliente nuevo.
+
+
+
+
+2. OBJETIVOS DEL NEGOCIO Y CRITERIOS DE ÉXITO
+El presente proyecto tiene como objetivo atender la solicitud de pedidos efectuados a través de la Web en un 100 % y realizar un sistema que permita automatizar la gestión de ventas agilizando así la atención al cliente y permitiendo controlar y realizar un seguimiento de los pedidos efectuados. 
+
+Desarrollar un sistema que permita el registro y consulta de las ventas que realiza TAMBO PERÚ.
+Permitirá la localización de las diferentes TIENDAS.
+ 
+3. LAS PARTES INTERESADAS
+
+STAKEHOLDER
+(PERSONAS O GRUPOS)	INTERES EN EL PROYECTO
+	ESTRATEGIA 
+PARA REDUCIR OBSTÁCULOS
+	CONDICIONES DE VICTORIA	RESTRICCIONES
+Sponsor (Gerente Comercial) :
+Samuel Revilla Iglesia	Que el proyecto sea terminado
+exitosamente para poder
+satisfacer las expectativas del
+área y incentivar consumos e
+incrementar colocaciones de los
+clients	Informar continuamente sobre la
+performance del proyecto, los
+problemas encontrados, y
+solicitar soporte de ser
+necesario	Que el patrocinador recupere en 1 año lo invertido.
+	La restricción de tiempo se refiere a la cantidad de tiempo disponible para completar un proyecto
+
+Equipo del Proyecto:
+
+	Director del Proyecto (Randy REAL SRSEN)
+	Analista Funcional (JampierZARATE)
+	Analista Programador (Joseph NAULA RIOS)
+	Administrador de Base De Datos(Rodney TORRES)
+	Analista de Calidad (Jaime GONZALES CARBAJAL)	Que la funcionalidad del Software
+cumplan con los requerimientos
+establecidos.	Que cuenten con toda la
+información y herramientas para
+el desarrollo del sistema	El área de maketing gane más acreedores.
+	La restricción de coste se refiere a la cantidad presupuestada para el proyecto
+
+Proveedor de licencias:
+	Empresa IBM	Obtener Beneficio económico,
+satisfacción del cliente y
+posicionamiento en el mercado
+como proveedores confiables de
+lincencias de software	Que se cumpla con el contrato
+de la licencia		La restricción de alcance se refiere a lo que se debe hacer para producir el resultado final del proyecto
+
+
+
+
+
+
+
+
+
+
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 1. Project Description
 <Provide a concise summary of the intent and motivation for the project. This section could describe the business opportunity that the project is intended to create or exploit. There might be a specific final deliverable or goal to call out. You could incorporate a summary of the business case that explains why the organization wants to undertake the project.>
 2. Business Objectives and Success Criteria
